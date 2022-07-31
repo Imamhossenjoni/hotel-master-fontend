@@ -1,0 +1,62 @@
+[
+    {
+       
+        "img":"https://i.ibb.co/JxMQMWb/single4.jpg",
+        "title":"Single Room"
+    },
+    {
+        
+        "img":"https://i.ibb.co/1mBMMv1/twin5.jpg",
+        "title":"Twin Room"
+    },
+    {
+        
+        "img":"https://i.ibb.co/GdPjjJK/single3.jpg",
+        "title":"Single Room"
+    },
+    {
+        
+        "img":"https://i.ibb.co/wSVkqcp/twin3.jpg",
+        "title":"Twin Room"
+    },
+    {
+        
+        "img":"https://i.ibb.co/1vgZ5x2/double-duflex4.jpg",
+        "title":"Double Duflex"
+    },
+    {
+        "id":6,
+        "img":"https://i.ibb.co/qnjBZbz/double-duflex3.jpg",
+        "title":"Double Duflex"
+    },
+    {
+        "id":7,
+        "img":"https://i.ibb.co/qnjBZbz/double-duflex3.jpg",
+        "title":"Double Duflex"
+    },
+    {
+        "id":8,
+        "img":"https://i.ibb.co/h77prPb/twin2.jpg",
+        "title":"Twin Room"
+    },
+    {
+        "id":9,
+        "img":"https://i.ibb.co/ZXZx5V7/vip.jpg",
+        "title":"VIP Room"
+    },
+    {
+        "id":10,
+        "img":"https://i.ibb.co/pLKWvWP/double-duflex2.jpg",
+        "title":"Double Duflex"
+    },
+    {
+        "id":11,
+        "img":"https://i.ibb.co/ckpP5pb/Double-duflex.jpg",
+        "title":"Double Duflex"
+    },
+    {
+        "id":12,
+        "img":"https://i.ibb.co/9nq8cGb/twin-room.jpg",
+        "title":"Twin Single Room"
+    }
+]

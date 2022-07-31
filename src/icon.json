@@ -1,0 +1,26 @@
+[
+    {
+        "img":"https://i.ibb.co/X74TGFK/save.png",
+        "title":"Save up to 10%",
+        "descript":"Members get access to an exclusive discounts on Radissonblu.com. Not a member yet? Hurry Up!",
+        "id":1
+    },
+    {
+        "img":"https://i.ibb.co/gzH7GB8/best.png",
+        "title":"Best Rate Guarantee",
+        "descript":"If you find a lower online rate, we will match it and give you an additional 25% off on your stay.",
+        "id":2
+    },
+    {
+        "img":"https://i.ibb.co/9p8MvxJ/wifi.png",
+        "title":"Free Wi-Fi",
+        "descript":"If you find a lower online rate, we will match it and give you an additional 25% off on your stay.",
+        "id":3
+    },
+    {
+        "img":"https://i.ibb.co/q09gYDc/night.png",
+        "title":"Enjoy Free Nights",
+        "descript":"If you find a lower online rate, we will match it and give you an additional 25% off on your stay.",
+        "id":4
+    }
+]
