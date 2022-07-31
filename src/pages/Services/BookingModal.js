@@ -31,7 +31,7 @@ const BookingModal = ({ service, setService, date, refetch }) => {
             phone: phone,
             address: address,
         }
-        fetch('http://localhost:5000/booking', {
+        fetch('https://fathomless-peak-01351.herokuapp.com/booking', {
             method: 'Post',
             headers: {
                 'content-type': 'application/json'

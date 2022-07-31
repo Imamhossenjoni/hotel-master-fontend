@@ -8,7 +8,7 @@ const Order = () => {
     const [bookings, setBookings] = useState([]);
     useEffect(() => {
         if (user) {
-            fetch(`http://localhost:5000/booking?email=${user?.email}`)
+            fetch(`https://fathomless-peak-01351.herokuapp.com/booking?email=${user?.email}`)
                 .then(res => res.json())
                 .then(data => setBookings(data));
         }

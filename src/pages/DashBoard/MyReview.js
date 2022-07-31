@@ -21,7 +21,7 @@ const MyReview = () => {
              photo:photo,
              review:review
         }
-        fetch('http://localhost:5000/reviews',{
+        fetch('https://fathomless-peak-01351.herokuapp.com/reviews',{
             method:'Post',
             headers:{
                 'content-type':'application/json'

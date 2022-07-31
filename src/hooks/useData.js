@@ -2,7 +2,7 @@ import { useState } from "react";
 
 const useData=()=>{
     const [services,setServices]=useState([]);
-    fetch('http://localhost:5000/services')
+    fetch('https://fathomless-peak-01351.herokuapp.com/services')
     .then(res=>res.json())
     .then(data=>setServices(data));
     return [services];

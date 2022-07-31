@@ -6,7 +6,7 @@ const ServiceDetails = () => {
   const { id } = useParams();
   const [detail, setDetail] = useState({});
   useEffect(() => {
-    fetch(`http://localhost:5000/services/${id}`)
+    fetch(`https://fathomless-peak-01351.herokuapp.com/services/${id}`)
       .then(res => res.json())
       .then(data => setDetail(data));
   }, [id])

@@ -16,7 +16,7 @@ const AvailableBooking = ({ date }) => {
 
     //react query use for dependancy and date properly loaded.
     const { isLoading,refetch, error, data: services } = useQuery(['available',formattedDate], () =>
-        fetch(`http://localhost:5000/available?date=${formattedDate}`)
+        fetch(`https://fathomless-peak-01351.herokuapp.com/available?date=${formattedDate}`)
         .then(res =>res.json()
         )
     )
